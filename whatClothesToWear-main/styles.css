@@ -1,0 +1,13 @@
+.shirt {
+    width: 400vw;
+    transition: transform 0.4s;
+}
+
+.topimg {
+    float: left;
+    width: 100vw;
+}
+
+.topimg img {
+    width: 100%;
+}
